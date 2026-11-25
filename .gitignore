@@ -1,0 +1,8 @@
+.env
+.env.*
+node_modules/
+__pycache__/
+dist/
+*.pdf
+!public/samples/*.pdf
+!output/pdf/cardiff-credit-card-statement.pdf

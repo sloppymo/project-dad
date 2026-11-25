@@ -1,0 +1,13 @@
+{
+  "name": "project-dad",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "start": "node server.mjs",
+    "build:pages": "node scripts/build-pages.mjs",
+    "test": "node test/prototype.test.mjs && node test/savings.test.mjs && node test/pages.test.mjs",
+    "fixtures": "python3 scripts/generate_fixtures.py"
+  }
+}

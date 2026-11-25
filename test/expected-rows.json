@@ -1,0 +1,280 @@
+{
+  "harbor-checking-jan-mar.pdf": [
+    {
+      "date": "2026-01-02",
+      "description": "MERIDIAN RETIREMENT DEPOSIT",
+      "amountCents": 210000,
+      "page": 1
+    },
+    {
+      "date": "2026-01-04",
+      "description": "NORTHLINE INTERNET ACH",
+      "amountCents": -6450,
+      "page": 1
+    },
+    {
+      "date": "2026-01-12",
+      "description": "FIREFLY WATER DISTRICT ACH",
+      "amountCents": -7300,
+      "page": 1
+    },
+    {
+      "date": "2026-01-16",
+      "description": "SUMMIT VISA PAYMENT 2046",
+      "amountCents": -16051,
+      "page": 1
+    },
+    {
+      "date": "2026-01-24",
+      "description": "ONLINE TRANSFER TO SAVINGS 0832",
+      "amountCents": -20000,
+      "page": 1
+    },
+    {
+      "date": "2026-02-02",
+      "description": "MERIDIAN RETIREMENT DEPOSIT",
+      "amountCents": 210000,
+      "page": 2
+    },
+    {
+      "date": "2026-02-04",
+      "description": "NORTHLINE INTERNET ACH",
+      "amountCents": -6450,
+      "page": 2
+    },
+    {
+      "date": "2026-02-12",
+      "description": "FIREFLY WATER DISTRICT ACH",
+      "amountCents": -8200,
+      "page": 2
+    },
+    {
+      "date": "2026-02-16",
+      "description": "SUMMIT VISA PAYMENT 2046",
+      "amountCents": -15120,
+      "page": 2
+    },
+    {
+      "date": "2026-02-23",
+      "description": "ACH ONLINE PAYMENT WEB",
+      "amountCents": -1995,
+      "page": 2
+    },
+    {
+      "date": "2026-03-02",
+      "description": "MERIDIAN RETIREMENT DEPOSIT",
+      "amountCents": 210000,
+      "page": 3
+    },
+    {
+      "date": "2026-03-04",
+      "description": "NORTHLINE INTERNET ACH",
+      "amountCents": -6450,
+      "page": 3
+    },
+    {
+      "date": "2026-03-12",
+      "description": "FIREFLY WATER DISTRICT ACH",
+      "amountCents": -9900,
+      "page": 3
+    },
+    {
+      "date": "2026-03-16",
+      "description": "SUMMIT VISA PAYMENT 2046",
+      "amountCents": -17180,
+      "page": 3
+    },
+    {
+      "date": "2026-03-24",
+      "description": "WESTWARD HARDWARE",
+      "amountCents": -2850,
+      "page": 3
+    }
+  ],
+  "summit-card-jan-mar.pdf": [
+    {
+      "date": "2026-01-06",
+      "description": "LANTERN STREAMING",
+      "amountCents": -1299,
+      "page": 1
+    },
+    {
+      "date": "2026-01-09",
+      "description": "PAYPAL *PINECONE",
+      "amountCents": -899,
+      "page": 1
+    },
+    {
+      "date": "2026-01-16",
+      "description": "PAYMENT - THANK YOU",
+      "amountCents": 16051,
+      "page": 1
+    },
+    {
+      "date": "2026-01-21",
+      "description": "COPPER MARKET",
+      "amountCents": -2342,
+      "page": 1
+    },
+    {
+      "date": "2026-02-06",
+      "description": "LANTERN STREAMING",
+      "amountCents": -1299,
+      "page": 2
+    },
+    {
+      "date": "2026-02-09",
+      "description": "PAYPAL *PINECONE",
+      "amountCents": -899,
+      "page": 2
+    },
+    {
+      "date": "2026-02-16",
+      "description": "PAYMENT - THANK YOU",
+      "amountCents": 15120,
+      "page": 2
+    },
+    {
+      "date": "2026-02-25",
+      "description": "COPPER MARKET",
+      "amountCents": -3971,
+      "page": 2
+    },
+    {
+      "date": "2026-03-06",
+      "description": "LANTERN STREAMING",
+      "amountCents": -1599,
+      "page": 3
+    },
+    {
+      "date": "2026-03-09",
+      "description": "PAYPAL *PINECONE",
+      "amountCents": -899,
+      "page": 3
+    },
+    {
+      "date": "2026-03-16",
+      "description": "PAYMENT - THANK YOU",
+      "amountCents": 17180,
+      "page": 3
+    },
+    {
+      "date": "2026-03-21",
+      "description": "COPPER MARKET",
+      "amountCents": -2250,
+      "page": 3
+    },
+    {
+      "date": "2026-03-21",
+      "description": "COPPER MARKET",
+      "amountCents": -2250,
+      "page": 3
+    },
+    {
+      "date": "2026-03-25",
+      "description": "GLASSBRIDGE BOOKSHOP CREDIT",
+      "amountCents": 1270,
+      "page": 3
+    }
+  ],
+  "summit-card-feb-apr.pdf": [
+    {
+      "date": "2026-02-06",
+      "description": "LANTERN STREAMING",
+      "amountCents": -1299,
+      "page": 1
+    },
+    {
+      "date": "2026-02-09",
+      "description": "PAYPAL *PINECONE",
+      "amountCents": -899,
+      "page": 1
+    },
+    {
+      "date": "2026-02-16",
+      "description": "PAYMENT - THANK YOU",
+      "amountCents": 15120,
+      "page": 1
+    },
+    {
+      "date": "2026-02-25",
+      "description": "COPPER MARKET",
+      "amountCents": -3971,
+      "page": 1
+    },
+    {
+      "date": "2026-03-06",
+      "description": "LANTERN STREAMING",
+      "amountCents": -1599,
+      "page": 2
+    },
+    {
+      "date": "2026-03-09",
+      "description": "PAYPAL *PINECONE",
+      "amountCents": -899,
+      "page": 2
+    },
+    {
+      "date": "2026-03-16",
+      "description": "PAYMENT - THANK YOU",
+      "amountCents": 17180,
+      "page": 2
+    },
+    {
+      "date": "2026-03-21",
+      "description": "COPPER MARKET",
+      "amountCents": -2250,
+      "page": 2
+    },
+    {
+      "date": "2026-03-21",
+      "description": "COPPER MARKET",
+      "amountCents": -2250,
+      "page": 2
+    },
+    {
+      "date": "2026-03-25",
+      "description": "GLASSBRIDGE BOOKSHOP CREDIT",
+      "amountCents": 1270,
+      "page": 2
+    },
+    {
+      "date": "2026-04-06",
+      "description": "LANTERN STREAMING",
+      "amountCents": -1599,
+      "page": 3
+    },
+    {
+      "date": "2026-04-09",
+      "description": "PAYPAL *PINECONE",
+      "amountCents": -899,
+      "page": 3
+    },
+    {
+      "date": "2026-04-16",
+      "description": "PAYMENT - THANK YOU",
+      "amountCents": 13255,
+      "page": 3
+    },
+    {
+      "date": "2026-04-26",
+      "description": "WESTWARD HARDWARE",
+      "amountCents": -3450,
+      "page": 3
+    }
+  ],
+  "harbor-checking-apr-partial.pdf": [
+    {
+      "date": "2026-04-02",
+      "description": "MERIDIAN RETIREMENT DEPOSIT",
+      "amountCents": 210000,
+      "page": 1
+    },
+    {
+      "date": "2026-04-04",
+      "description": "NORTHLINE INTERNET ACH",
+      "amountCents": -6450,
+      "page": 1
+    }
+  ]
+}

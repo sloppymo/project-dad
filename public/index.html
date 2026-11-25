@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f4f5ef">
+  <title>Project Dad | Find ways to save</title>
+  <link rel="stylesheet" href="./style.css">
+  <script type="module" src="./app.mjs"></script>
+</head>
+<body>
+  <header class="topbar">
+    <div class="wrap topbar-inner">
+      <a class="wordmark" href="#top"><span class="brand-mark" aria-hidden="true">P</span>Project Dad</a>
+      <span class="local-label"><span aria-hidden="true"></span>Local prototype</span>
+    </div>
+  </header>
+  <main id="top" class="wrap">
+    <header class="page-heading">
+      <div>
+        <h1 id="page-title" tabindex="-1">What's worth a look?</h1>
+        <p>Add your statements. Get a short list of bills worth checking.</p>
+      </div>
+      <button type="button" id="find-savings" class="button primary" hidden>Find ways to save</button>
+    </header>
+    <div id="storage-error" class="notice error" role="alert" hidden></div>
+    <div id="import-result" class="notice error" role="status" hidden>
+      <span id="import-result-text"></span>
+      <button type="button" class="text-button" data-action="import-details">See import details</button>
+    </div>
+    <div class="workspace">
+      <div class="review-column">
+        <section id="savings-review" aria-labelledby="savings-heading" hidden></section>
+        <section id="findings" aria-labelledby="findings-heading"></section>
+        <section id="overview" aria-label="Monthly estimate"></section>
+        <section id="ledger" aria-label="Transaction ledger"></section>
+      </div>
+      <aside class="sidebar" aria-label="Statement import and coverage">
+        <section class="panel import-panel" id="import-panel" aria-labelledby="import-heading">
+          <h2 id="import-heading">Add statements</h2>
+          <p class="panel-copy">Select checking and credit card PDFs. Use fictional or properly redacted statements.</p>
+          <button type="button" id="drop-zone" class="drop-zone" aria-describedby="drop-hint">
+            <strong>Drop statement PDFs here</strong>
+            <span id="drop-hint">or press to choose files</span>
+          </button>
+          <div class="import-buttons">
+            <button type="button" id="choose-files" class="button secondary">Choose PDFs</button>
+            <button type="button" id="load-samples" class="button secondary">Import 2 sample PDFs</button>
+            <input type="file" id="file-input" accept=".pdf,application/pdf" aria-label="Select statement PDFs" multiple hidden>
+          </div>
+          <div id="import-progress" class="import-progress" role="status" aria-live="polite" tabindex="-1" hidden></div>
+          <ul id="import-receipts" class="import-receipts" hidden></ul>
+          <details class="sample-downloads">
+            <summary>Download sample PDFs</summary>
+            <ul>
+              <li><a href="./samples/harbor-checking-jan-mar.pdf" download>Harbor checking, Jan to Mar</a></li>
+              <li><a href="./samples/summit-card-jan-mar.pdf" download>Summit credit card, Jan to Mar</a></li>
+              <li><a href="./samples/summit-card-feb-apr.pdf" download>Summit credit card, Feb to Apr overlap</a></li>
+              <li><a href="./samples/harbor-checking-apr-partial.pdf" download>Harbor checking, partial import example</a></li>
+              <li><a href="./samples/unsupported-statement.pdf" download>Unsupported document example</a></li>
+            </ul>
+          </details>
+          <p class="privacy-note">The local reader discards PDF copies after reading. This browser keeps transaction evidence and your choices.</p>
+        </section>
+        <section id="coverage" class="panel" aria-labelledby="coverage-heading"></section>
+      </aside>
+    </div>
+    <div id="announcer" class="sr-only" role="status" aria-live="polite"></div>
+  </main>
+</body>
+</html>
